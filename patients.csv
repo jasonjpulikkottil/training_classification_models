@@ -1,0 +1,101 @@
+Age,Gender,Height,Location,LastName,Systolic,Diastolic,Smoker
+38,Male,71,County General Hospital,Smith,124,93,1
+43,Male,69,VA Hospital,Johnson,109,77,0
+38,Female,64,St. Mary's Medical Center,Williams,125,83,0
+40,Female,67,VA Hospital,Jones,117,75,0
+49,Female,64,County General Hospital,Brown,122,80,0
+46,Female,68,St. Mary's Medical Center,Davis,121,70,0
+33,Female,64,VA Hospital,Miller,130,88,1
+40,Male,68,VA Hospital,Wilson,115,82,0
+28,Male,68,St. Mary's Medical Center,Moore,115,78,0
+31,Female,66,County General Hospital,Taylor,118,86,0
+45,Female,68,County General Hospital,Anderson,114,77,0
+42,Female,66,St. Mary's Medical Center,Thomas,115,68,0
+25,Male,71,VA Hospital,Jackson,127,74,0
+39,Male,72,VA Hospital,White,130,95,1
+36,Female,65,St. Mary's Medical Center,Harris,114,79,0
+48,Male,71,VA Hospital,Martin,130,92,1
+32,Male,69,St. Mary's Medical Center,Thompson,124,95,1
+27,Female,69,VA Hospital,Garcia,123,79,1
+37,Male,70,County General Hospital,Martinez,119,77,0
+50,Male,68,County General Hospital,Robinson,125,76,0
+48,Female,65,VA Hospital,Clark,121,75,0
+39,Female,64,VA Hospital,Rodriguez,123,79,0
+41,Female,62,VA Hospital,Lewis,114,88,0
+44,Female,66,County General Hospital,Lee,128,90,1
+28,Female,65,County General Hospital,Walker,129,96,1
+25,Male,70,VA Hospital,Hall,114,77,0
+39,Female,63,VA Hospital,Allen,113,80,0
+25,Female,63,County General Hospital,Young,125,76,0
+36,Male,68,County General Hospital,Hernandez,120,83,0
+30,Male,67,County General Hospital,King,127,89,1
+45,Female,70,VA Hospital,Wright,134,92,1
+40,Female,66,VA Hospital,Lopez,121,83,0
+25,Female,64,St. Mary's Medical Center,Hill,115,80,0
+47,Male,70,St. Mary's Medical Center,Scott,127,84,0
+44,Male,71,County General Hospital,Green,121,92,0
+48,Female,66,VA Hospital,Adams,127,83,0
+44,Male,71,VA Hospital,Baker,136,90,1
+35,Female,66,St. Mary's Medical Center,Gonzalez,117,85,0
+33,Male,66,St. Mary's Medical Center,Nelson,124,90,1
+38,Female,63,St. Mary's Medical Center,Carter,120,74,0
+39,Male,71,County General Hospital,Mitchell,128,92,1
+44,Male,69,VA Hospital,Perez,116,80,0
+44,Male,70,VA Hospital,Roberts,132,89,1
+37,Male,70,VA Hospital,Turner,137,96,1
+45,Male,67,VA Hospital,Phillips,117,89,0
+37,Female,65,County General Hospital,Campbell,116,77,0
+30,Male,68,VA Hospital,Parker,119,81,0
+39,Female,62,County General Hospital,Evans,123,76,0
+42,Male,70,County General Hospital,Edwards,116,83,0
+42,Male,67,County General Hospital,Collins,124,78,1
+49,Male,68,County General Hospital,Stewart,129,95,1
+44,Female,62,St. Mary's Medical Center,Sanchez,130,91,1
+43,Female,64,County General Hospital,Morris,132,91,1
+47,Female,66,VA Hospital,Rogers,117,86,0
+50,Male,72,VA Hospital,Reed,129,89,1
+38,Female,63,VA Hospital,Cook,118,79,0
+41,Female,66,St. Mary's Medical Center,Morgan,120,74,0
+45,Male,70,St. Mary's Medical Center,Bell,138,82,1
+36,Male,71,VA Hospital,Murphy,117,76,0
+38,Female,68,St. Mary's Medical Center,Bailey,113,81,0
+29,Female,63,County General Hospital,Rivera,122,77,0
+28,Female,65,VA Hospital,Cooper,115,73,0
+30,Female,67,County General Hospital,Richardson,120,85,0
+28,Female,66,County General Hospital,Cox,117,76,0
+29,Female,68,VA Hospital,Howard,123,80,0
+36,Male,71,St. Mary's Medical Center,Ward,123,80,0
+45,Female,70,County General Hospital,Torres,119,79,0
+32,Female,60,County General Hospital,Peterson,110,82,0
+31,Female,64,VA Hospital,Gray,121,79,0
+48,Female,64,County General Hospital,Ramirez,138,82,1
+25,Male,66,County General Hospital,James,125,75,0
+40,Female,64,VA Hospital,Watson,122,91,1
+39,Male,72,St. Mary's Medical Center,Brooks,120,74,0
+41,Female,65,St. Mary's Medical Center,Kelly,117,78,0
+33,Female,67,St. Mary's Medical Center,Sanders,125,85,1
+31,Male,72,VA Hospital,Price,124,84,1
+35,Female,64,County General Hospital,Bennett,121,75,0
+32,Male,68,St. Mary's Medical Center,Wood,118,78,0
+42,Male,66,County General Hospital,Barnes,120,81,0
+48,Female,64,VA Hospital,Ross,118,79,0
+34,Male,68,St. Mary's Medical Center,Henderson,118,85,0
+39,Male,69,VA Hospital,Coleman,122,79,0
+28,Male,69,County General Hospital,Jenkins,134,82,1
+29,Female,64,St. Mary's Medical Center,Perry,131,80,0
+32,Female,63,VA Hospital,Powell,113,80,0
+39,Male,68,County General Hospital,Long,125,92,1
+37,Female,65,County General Hospital,Patterson,135,92,1
+49,Female,63,County General Hospital,Hughes,128,96,1
+31,Female,66,VA Hospital,Flores,123,87,1
+37,Female,65,St. Mary's Medical Center,Washington,122,81,0
+38,Male,68,County General Hospital,Butler,138,90,1
+45,Male,71,VA Hospital,Simmons,124,77,0
+30,Female,70,St. Mary's Medical Center,Foster,130,91,0
+48,Male,71,County General Hospital,Gonzales,123,79,0
+48,Female,66,County General Hospital,Bryant,129,73,0
+25,Male,69,County General Hospital,Alexander,128,99,1
+44,Male,69,VA Hospital,Russell,124,92,1
+49,Male,70,County General Hospital,Griffin,119,74,0
+45,Male,68,County General Hospital,Diaz,136,93,1
+48,Male,66,County General Hospital,Hayes,114,86,0
