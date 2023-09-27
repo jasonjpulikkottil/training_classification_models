@@ -1,8 +1,5 @@
 # Training classification models
 
-## Texas A&M University at Qatar
-## MEEN 423
-
 Introduction :
 <br>
 Once your data has been processed, it is time to use it to train models. We
